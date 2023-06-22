@@ -4,28 +4,37 @@ using System.Collections;
 internal class NewBaseType{
     private static void Main(string[] args)
     {
-        string ? palabra;
+        int idx;
         ArrayList Materias = new ArrayList();
+        ArrayList Cursos = new ArrayList();
         
-        Materias.Add("0) Calculo.");
-        Materias.Add("1) Español.");
-        Materias.Add("2) Dibujo tecnico.");
-        Materias.Add("3) Ingles.");
+        Materias.Add("Calculo");
+        Materias.Add("Español");
+        Materias.Add("Dibujo tecnico");
+        Materias.Add("Ingles");
 
-        Console.Write("Escriba la materia a buscar: ");
-        palabra = Console.ReadLine();
-        Console.WriteLine(Materias.Contains(palabra) ? "La materia esta disponible":"La materia no se encontro");
-
+        Cursos.Add("Octavo");
+        Cursos.Add("Noveno");
         do{
-            Console.Write("Ingrese la posicion donde desea insertar la asignatura: ");
-            idx = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Escriba la pocicion donde desea insertar la Asignatura: ");
+            idx= Convert.ToInt32(Console.ReadLine());
         }while(idx > Materias.Count);
-
-        Materias.Insert(idx,palabra);
-
+        
+        Materias .InsertRange(idx,Cursos);
         foreach(object materia in Materias){
             Console.WriteLine(materia.ToString());
         }
+        
+        // do{
+            
+        //     idx = Convert.ToInt32(Console.ReadLine());
+        // }while(idx > Materias.Count);
+
+        // Materias.Insert(idx,palabra);
+
+        // foreach(object materia in Materias){
+        //     Console.WriteLine(materia.ToString());
+        // }
     }
  
 }

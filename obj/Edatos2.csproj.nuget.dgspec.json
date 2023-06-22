@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/apolM01-043/netCore/Edatos3/Edatos2/Edatos2.csproj": {}
+    "/home/apolM01-043/netCore/Edatos3/Edatos3/Edatos2.csproj": {}
   },
   "projects": {
-    "/home/apolM01-043/netCore/Edatos3/Edatos2/Edatos2.csproj": {
+    "/home/apolM01-043/netCore/Edatos3/Edatos3/Edatos2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/apolM01-043/netCore/Edatos3/Edatos2/Edatos2.csproj",
+        "projectUniqueName": "/home/apolM01-043/netCore/Edatos3/Edatos3/Edatos2.csproj",
         "projectName": "Edatos2",
-        "projectPath": "/home/apolM01-043/netCore/Edatos3/Edatos2/Edatos2.csproj",
+        "projectPath": "/home/apolM01-043/netCore/Edatos3/Edatos3/Edatos2.csproj",
         "packagesPath": "/home/apolM01-043/.nuget/packages/",
-        "outputPath": "/home/apolM01-043/netCore/Edatos3/Edatos2/obj/",
+        "outputPath": "/home/apolM01-043/netCore/Edatos3/Edatos3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/apolM01-043/.nuget/NuGet/NuGet.Config"

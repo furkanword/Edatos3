@@ -1,0 +1,15 @@
+/home/apolM01-043/netCore/Edatos3/Edatos3/bin/Debug/net7.0/Edatos2
+/home/apolM01-043/netCore/Edatos3/Edatos3/bin/Debug/net7.0/Edatos2.deps.json
+/home/apolM01-043/netCore/Edatos3/Edatos3/bin/Debug/net7.0/Edatos2.runtimeconfig.json
+/home/apolM01-043/netCore/Edatos3/Edatos3/bin/Debug/net7.0/Edatos2.dll
+/home/apolM01-043/netCore/Edatos3/Edatos3/bin/Debug/net7.0/Edatos2.pdb
+/home/apolM01-043/netCore/Edatos3/Edatos3/obj/Debug/net7.0/Edatos2.csproj.AssemblyReference.cache
+/home/apolM01-043/netCore/Edatos3/Edatos3/obj/Debug/net7.0/Edatos2.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolM01-043/netCore/Edatos3/Edatos3/obj/Debug/net7.0/Edatos2.AssemblyInfoInputs.cache
+/home/apolM01-043/netCore/Edatos3/Edatos3/obj/Debug/net7.0/Edatos2.AssemblyInfo.cs
+/home/apolM01-043/netCore/Edatos3/Edatos3/obj/Debug/net7.0/Edatos2.csproj.CoreCompileInputs.cache
+/home/apolM01-043/netCore/Edatos3/Edatos3/obj/Debug/net7.0/Edatos2.dll
+/home/apolM01-043/netCore/Edatos3/Edatos3/obj/Debug/net7.0/refint/Edatos2.dll
+/home/apolM01-043/netCore/Edatos3/Edatos3/obj/Debug/net7.0/Edatos2.pdb
+/home/apolM01-043/netCore/Edatos3/Edatos3/obj/Debug/net7.0/Edatos2.genruntimeconfig.cache
+/home/apolM01-043/netCore/Edatos3/Edatos3/obj/Debug/net7.0/ref/Edatos2.dll
